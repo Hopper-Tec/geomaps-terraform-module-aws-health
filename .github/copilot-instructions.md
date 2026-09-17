@@ -1,4 +1,4 @@
-# Copilot Instructions — terraform-module-aws-health
+# Copilot Instructions — geomaps-terraform-module-aws-health
 
 ## Team
 
@@ -6,7 +6,7 @@ This repository is owned by the *Engineering* team at GeoMaps. [AWS Organization
 
 ## About This Repository
 
-Reusable Terraform module for AWS Health event alerts via EventBridge rules and SNS targets. Consumed by [terragrunt-live-aws](https://github.com/Hopper-Tec/terragrunt-live-aws) via module source.
+Reusable Terraform module for AWS Health event alerts via EventBridge rules and SNS targets. Consumed by [terragrunt-live-aws](https://github.com/Hopper-Tec/geomaps-terragrunt-live-aws) via module source.
 
 *Primary stack:* Terraform.
 
